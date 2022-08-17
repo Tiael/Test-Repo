@@ -1,0 +1,4 @@
+test
+This is a longer text to test diff
+Line 3
+Line 4
