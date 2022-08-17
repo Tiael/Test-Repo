@@ -1,3 +1,4 @@
 This is a quick test file for pushing
 This is an addition for pulling
 Third line for testing merges
+Line four
